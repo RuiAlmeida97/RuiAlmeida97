@@ -28,9 +28,8 @@ Data Analytics Course,Ironhack
     <tbody>
         <tr>
            <td><a href="https://www.linkedin.com/in/RuiAlmeida97/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="https://www.linkedin.com/in/rui-rodrigues-almeida/" />
             </a></td>
          
-        </tr>
-    </tbody>
+    
 </table>
