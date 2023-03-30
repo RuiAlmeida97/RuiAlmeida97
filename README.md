@@ -9,6 +9,7 @@ In addition to my data analysis skills, I have a strong interest in sports, part
 I am currently seeking opportunities to work with a company that values innovation, teamwork, and continuous learning. I believe that my background in Hospitality Management and Management, combined with my newly acquired data analytics skills, make me a valuable asset to any team.
 
 Skills: Data analysis,SQL,Python,Excel,Financial management,Customer service,Teamwork
+
 Data Analytics Course,Ironhack
 Degree in Hospitality Management and Management, Universidade Europeia
 <!-- HTML approach -->
