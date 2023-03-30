@@ -22,3 +22,15 @@ Data Analytics Course,Ironhack
 <!-- HTML approach -->
 <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2020/07/costa-do-sauipe-pacotes-capa2019-820x430.jpg"/>
 <img src="https://github-readme-stats.vercel.app/api?username=RuiAlmeida97&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuiAlmeida97&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuiAlmeida97"/>
+<table>
+    <tbody>
+        <tr>
+           <td><a href="https://www.linkedin.com/in/RuiAlmeida97/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+         
+        </tr>
+    </tbody>
+</table>
