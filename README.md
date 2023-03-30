@@ -20,4 +20,4 @@ Education
 Data Analytics Course,Ironhack
  Degree in Hospitality Management and Management, Universidade Europeia
 <!-- HTML approach -->
-<img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2020/07/costa-do-sauipe-pacotes-capa2019-820x430.jpg"/>
+<img src="https://www.canva.com/design/DAFelfQsMQ0/XNymxa8EmUziNxYzvEevcA/view?utm_content=DAFelfQsMQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
