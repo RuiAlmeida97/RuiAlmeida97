@@ -30,7 +30,6 @@ Data Analytics Course,Ironhack
              <td><a href="https://www.linkedin.com/in/rui-rodrigues-almeida/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-     
-        </tr>
+     </tr>
     </tbody>
 </table>
